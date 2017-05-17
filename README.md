@@ -1,3 +1,3 @@
 # mfranikowski.github.io
 
-marcin.franikowski_AT_silksh.pl
+m_AT_rcin.fr
